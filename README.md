@@ -3,7 +3,7 @@
 ##### $ ./calculator.sh "2 + 3" when executed will show 5 as answer
 ##### chmod +x calculator.sh if permission denied
 --------------------------------------------------------------------------------
-# Here is the citation of resources i used to come up with this solution
+#### Here is the citation of resources i used to come up with this solution
 --------------------------------------------------------------------------------
 Bash Programming Course by Udacity: https://www.udacity.com/course/bash-shell-scripting--ud595
 
