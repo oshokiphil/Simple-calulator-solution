@@ -1,8 +1,8 @@
 # Simple-calulator-solution Using bash shell scripting For Philip Emuekpere
-# Here is the citation of resources i used to come up with this solution
 # This script takes a single argument as an expression, evaluates it using bc, and prints the integer result. For example, to add 2 and 3, you would run
 # chmod +x calculator.sh if permission denied
 # $ ./calculator.sh "2 + 3" when executed will show 5 as answer
+# Here is the citation of resources i used to come up with this solution
 ---------------------------------------------------------------------------------
 Bash Programming Course by Udacity: https://www.udacity.com/course/bash-shell-scripting--ud595
 
